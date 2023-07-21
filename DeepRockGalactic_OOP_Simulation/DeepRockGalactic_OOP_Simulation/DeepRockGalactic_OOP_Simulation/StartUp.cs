@@ -24,5 +24,6 @@ public class StartUp
         grunt.DifficultyModifier = DifficultyLevel.Extreme;
         Console.WriteLine($"{grunt.Name} has walking speed of {grunt.CrawlingSpeed}");
 
+
     }
 }
