@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DeepRockGalactic.Models.Guns.Secondaries.BulldogHeavyRevolver" Collapsed="true">
+    <Position X="16.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAASAAAAAAABAAAAAAAEABAA=</HashCode>
+      <FileName>Models\Guns\Secondaries\BulldogHeavyRevolver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepRockGalactic.Models.Guns.Secondaries.DeepCore" Collapsed="true">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAYAAAAAAAAAAAAAAAAAASAgAAAAABAAAAAAAEABAA=</HashCode>
+      <FileName>Models\Guns\Secondaries\DeepCore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepRockGalactic.Models.Guns.Secondaries.Subata" Collapsed="true">
+    <Position X="11.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAASAAAAAAABAAAAAAAEABAA=</HashCode>
+      <FileName>Models\Guns\Secondaries\Subata.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepRockGalactic.Models.Guns.Secondaries.Zhukov" Collapsed="true">
+    <Position X="14" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAASAAAAAAABAAAAAAAEABAA=</HashCode>
+      <FileName>Models\Guns\Secondaries\Zhukov.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepRockGalactic.Models.Guns.Primaries.CRSPRFlamethrower" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAQAAAAAAABSAAAAAAABAAAAAAAEABAA=</HashCode>
+      <FileName>Models\Guns\Primaries\CRSPRFlamethrower.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepRockGalactic.Models.Guns.Primaries.M1000Classic" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAASAAAAAAABAAAAAAAEABAA=</HashCode>
+      <FileName>Models\Guns\Primaries\M1000Classic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepRockGalactic.Models.Guns.Primaries.Stubby" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAASAAAAAAABAAAAAAAEABAA=</HashCode>
+      <FileName>Models\Guns\Primaries\Stubby.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepRockGalactic.Models.Guns.Abstracts.NonReloadableGun" Collapsed="true">
+    <Position X="8.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAAACkAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Guns\Abstracts\NonReloadableGun.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DeepRockGalactic.Models.Guns.Abstracts.Primary" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Models\Guns\Abstracts\Primary.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DeepRockGalactic.Models.Guns.Abstracts.Secondary" Collapsed="true">
+    <Position X="12.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Models\Guns\Abstracts\Secondary.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DeepRockGalactic.Models.Guns.Abstracts.ReloadablePrimary" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAIAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Guns\Abstracts\ReloadablePrimary.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DeepRockGalactic.Models.Guns.Abstracts.ReloadableSecondary" Collapsed="true">
+    <Position X="12.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAIAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Guns\Abstracts\ReloadableSecondary.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DeepRockGalactic.Models.Guns.Primaries.LeadStorm" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAACAAJAAAASAAAAAAECAAAAACEEAAAA=</HashCode>
+      <FileName>Models\Guns\Primaries\LeadStorm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="DeepRockGalactic.Models.Guns.Contracts.IReloadable" Collapsed="true">
+    <Position X="8.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Guns\Contracts\IReloadable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

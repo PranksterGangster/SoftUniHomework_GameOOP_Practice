@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>DeepRockGalactic</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\Equipment\ClassEquipment\" />
+    <Folder Include="Models\Equipment\Throwables\" />
+    <Folder Include="Models\Minerals\" />
+  </ItemGroup>
+
+</Project>
