@@ -2,7 +2,7 @@
 
 namespace DeepRockGalactic.Models.Guns.Contracts;
 
-public interface secondary : IShootable
+public interface IGun : IShootable
 {
     GunType GunType { get; }
 }

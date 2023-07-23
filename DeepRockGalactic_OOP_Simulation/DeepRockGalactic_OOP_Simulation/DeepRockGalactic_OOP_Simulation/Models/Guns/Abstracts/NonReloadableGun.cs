@@ -3,7 +3,7 @@ using System;
 
 namespace DeepRockGalactic.Models.Guns.Abstracts
 {
-    public abstract class NonReloadableGun : secondary
+    public abstract class NonReloadableGun : IGun
     {
         public NonReloadableGun(GunType gunType, int maxAmmo, int damage, double rateOfFirePerSecond)
         {
